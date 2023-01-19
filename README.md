@@ -15,6 +15,7 @@ All Rust projects can follow this pattern:
 
 This pattern is a new emerging pattern and is ideal for systems programming in Rust.
 
+![1 1-prompt-engineering](https://user-images.githubusercontent.com/58792/213335664-f459e6ac-018a-4ccf-9563-bbe6d49d72d1.png)
 
 
 ### Reproduce
